@@ -136,4 +136,10 @@ If you use the EPR dataset, EPR-YOLO, or materials from this repository in your 
 
 ## License
 
-License information will be updated together with the public source-code release.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+The EPR dataset is distributed separately through Kaggle. Please refer to the dataset page for the applicable terms of use:
+
+- [Express Parcel Recognition (EPR) Dataset on Kaggle](https://www.kaggle.com/datasets/ongkingu1/express-parcel-recognition-epr-dataset)
+
+If you use the code, models, or dataset provided by this project in your research, please cite the corresponding paper and acknowledge this repository.
