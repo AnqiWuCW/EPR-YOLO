@@ -52,7 +52,7 @@ The application uses a native HTML/CSS/JavaScript front end and a FastAPI back e
 
 The **Express Parcel Recognition (EPR) Dataset** is publicly available on Kaggle:
 
-**Kaggle:** https://www.kaggle.com/datasets/ongkingu1/express-parcel-recognition-epr-dataset/settings
+**Kaggle:** https://www.kaggle.com/datasets/ongkingu1/express-parcel-recognition-epr-dataset
 
 The final dataset contains:
 
