@@ -1,6 +1,6 @@
 # EPR-YOLO
 
-The repository is for the paper **“A Lightweight RGB Vision-Based Express Parcel Detection Framework with Active Learning and Quantization-Aware Deployment”**, including the EPR dataset and the implementation materials for reproducing the proposed framework.
+The repository is for the paper **“A Lightweight RGB Vision-Based Express Parcel Detection Framework with Active Learning and Quantization-Aware Training”**, including the EPR dataset and the implementation materials for reproducing the proposed framework.
 
 The **Express Parcel Recognition (EPR) Dataset** has been publicly released on Kaggle. Source code and pretrained weights are being organized and will be released progressively.
 
