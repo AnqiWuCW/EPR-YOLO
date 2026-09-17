@@ -1,0 +1,4 @@
+Coming soon.
+
+This directory is reserved for the assets component of the EPR-YOLO project.
+Implementation files and/or project resources will be released after code cleanup and documentation.

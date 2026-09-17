@@ -1,0 +1,4 @@
+Coming soon.
+
+This directory is reserved for the active_learning component of the EPR-YOLO project.
+Implementation files and/or project resources will be released after code cleanup and documentation.
